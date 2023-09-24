@@ -16,6 +16,8 @@ Here are some notes and resources from Week 1 of Web Fundamentals:
 
 6. [Form Submission process in detail](https://gist.github.com/kingluddite/ab7f6001fc5cecdacaa1be9a67a0fbd7)
 
+7. [best practice for external links](https://gist.github.com/kingluddite/419ec21b4aa741fda06cb7db0c49fdcd) 
+
 ## Useful Links
 
 - [HTML Reference](https://www.w3schools.com/TAGS/default.asp)
